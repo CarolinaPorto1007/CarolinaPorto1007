@@ -26,7 +26,7 @@ Gosto de aprender de forma rápida e organizada, sempre buscando entender a lóg
   <tr>
     <td align="center" width="50%">
       <h3>💻 Estudante de Engenharia da Computação</h3>
-      <img src="https://i.pinimg.com/1200x/cd/c5/50/cdc5507770fdb1ddeedb6cb1fd423730.jpg" width="100%" />
+      <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtFo-wXd4FPikdTQ8BBsek-wWveWGeUc7etst6xcXOnigNYK9FTgr19skUxEMNlmqbkHJaOPxeqpGPBrhyphenhyphen_id2wNV1fm5Q-pAeqTXj2WJvtjVYyI-0Kfj3KxKXg8W0J79_UodN6mb4kVeQ/s640/documentos-para-estudar-no-exterior.gif" />
     </td>
     <td align="center" width="50%">
       <h3>📊 Desenvolvimento & Dados</h3>
