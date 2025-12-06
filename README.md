@@ -3,8 +3,9 @@
   <img src="https://i.pinimg.com/originals/ed/f9/18/edf91820f45ec88c7dd99d689d36b7e8.gif" 
        style="width: 100%; opacity: 0.25; position: absolute; top: 0; left: 0;">
   <div style="position: relative; z-index: 1; text-align: center; padding-top: 70px;">
-    <h1>Hello world! 🌍💻</h1>
-    <h2>Eu sou Carolina — bem-vindo(a) ao meu GitHub! 💜</h2>
+    <h2> Hello world! 🌍💻   
+      Eu sou Carolina — bem-vindo(a) ao meu GitHub! 💜
+    </h2>
   </div>
 </div>
 
