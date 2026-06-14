@@ -9,9 +9,9 @@
   </div>
 </div>
 
-# ⚙️ Engenharia da Computação • Desenvolvimento & Ciência de Dados
+## ⚙️ Engenharia da Computação • Desenvolvimento & Ciência de Dados
 
-Sou estudante de **Engenharia da Computação (5º período)** com interesse em desenvolvimento de software e análise de dados.
+Sou estudante de **Engenharia da Computação (6º período)** com interesse em desenvolvimento de software e análise de dados.
 
 Tenho experiência prática com **C, C++, Python, SQL e Flask**, além de conhecimento em **eletrônica**.
 
@@ -20,7 +20,7 @@ Gosto de aprender de forma rápida e organizada, sempre buscando entender a lóg
 ### 🔎 Atualmente estou me aprofundando em:
 - Desenvolvimento em **Python**
 - Análise de dados e SQL
-- Projetos com **STM32**
+- Projetos de desenvolvimento **mobile**
 - Desenvolvimento de APIs com **Flask**
 
 <table>
